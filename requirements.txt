@@ -3,6 +3,7 @@ pandas
 flask
 seaborn
 ipykernel
+scikit-learn
 
 -e .
 
